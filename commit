@@ -1,0 +1,7 @@
+echo "# Programa-o-Orientada-a-Objetos" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/lui54l5ou54/Programa-o-Orientada-a-Objetos.git
+git push -u origin main
