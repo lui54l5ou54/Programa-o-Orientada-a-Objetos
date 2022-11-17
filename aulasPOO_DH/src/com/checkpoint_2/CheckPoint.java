@@ -1,6 +1,6 @@
 package com.checkpoint_2;
 
-public class Main {
+public class CheckPoint {
     /**
     Floricultura
     Enunciado:
